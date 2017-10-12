@@ -342,7 +342,7 @@ h6, p {
     h5 {
         font-size: 1.0em;
     }
-    .col-6, .col-3, .col-1, .col-8, .small-left, .small-middle, .small-right {
+    .col-6, .col-4, .col-3, .col-1, .col-8, .small-left, .small-middle, .small-right {
         padding: 0;
         width: 100%;
     }
