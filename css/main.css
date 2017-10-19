@@ -182,6 +182,15 @@ img {
     text-align: center;
 }
 
+.centered {
+    align-items: center;
+}
+
+.centered img{
+    align-content: center;
+    margin: auto;
+}
+
 .profile {
     display: block;
     max-width: 1200px;
