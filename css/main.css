@@ -27,7 +27,6 @@ a:hover {
     float: right;
     font-family: 'europa', sans-serif;
     list-style-type: none;
-    overflow: auto;
 }
 
 #navbar a {
