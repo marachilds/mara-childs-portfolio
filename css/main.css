@@ -72,6 +72,21 @@ footer {
     width: 33.333333%;
 }
 
+/* WORK COL-6 */
+.flex {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wcol-6 {
+    margin: 0;
+    width: 50%;
+    min-width: 300px;
+    padding: 2%;
+}
+
 .col-6 {
     margin: 0;
     width: 50%;
@@ -462,7 +477,7 @@ h6, p {
     h6, p {
         font-size: 1.0em;
     }
-    .col-1, .col-2, .col-3, .col-4, .col-6,  .col-8, .small-left, .small-middle, .small-right {
+    .col-1, .col-2, .col-3, .col-4, .col-6,  .col-8, .small-left, .small-middle, .small-right, .wcol-3 {
         padding: 0;
         width: 100%;
     }
