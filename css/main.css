@@ -235,7 +235,7 @@ img {
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: rgba(255,255,255,0.90);
+    background-color: rgba(255,255,255,0.95);
 }
 
 .img-overlay:hover .overlay {
