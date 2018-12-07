@@ -14,7 +14,9 @@ html {
 
 a {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: yellow;
 }
 
 a:hover {
@@ -29,15 +31,16 @@ a:hover {
     list-style-type: none;
 }
 
-#navbar a {
+#navbar a, #return a {
     color: black;
     font-size: 1.0em;
     font-weight: 800;
     padding: 1.25em;
+    text-decoration: none;
     text-transform: uppercase;
 }
 
-#navbar a:hover {
+#navbar a:hover, #return a:hover {
     color: #BABABA;
 }
 
